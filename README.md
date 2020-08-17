@@ -22,7 +22,6 @@ This is a code made in LabNegro Events
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ghostakari-s"><img src="https://avatars1.githubusercontent.com/u/54871261?s=400&u=fd380c37859f451bb8735407db0a913426c84b4b&v=4" width="100px;" alt=""/><br /><sub><b>ghostakari-s</b></sub></a>
-  <tr>
     <td align="center"><a href="https://github.com/Tsugami"><img src="https://avatars1.githubusercontent.com/u/27602189?s=400&u=79f8cd74a0f97df21aabc9e84524b7f444ec96ca&v=4" width="100px;" alt=""/><br /><sub><b>Tsugami</b></sub></a><br />
   
 <!-- markdownlint-enable -->
