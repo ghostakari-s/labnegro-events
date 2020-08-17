@@ -1,4 +1,4 @@
-## Discord Bot
+## LabNegro Events
 
 [![Discord](https://img.shields.io/discord/425864977996578816?label=Discord)](discord.gg/AcmhNjG)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -11,7 +11,7 @@ This is a code made in LabNegro Events
   * [TypeScript](https://github.com/microsoft/TypeScript) is a JavaScript Superset
 
 ## Discord Server
-  Tests the bot in Support Discord Server
+  This is the LabNegro Invite
   <td align="center"><a href="discord.gg/AcmhNjG"> <img src="https://invidget.switchblade.xyz/AcmhNjG">
 
 ## Contributors
