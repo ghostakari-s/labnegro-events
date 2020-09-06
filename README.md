@@ -14,6 +14,9 @@ This is a code made in LabNegro Events
   This is the LabNegro Invite
   <td align="center"><a href="discord.gg/AcmhNjG"> <img src="https://invidget.switchblade.xyz/AcmhNjG">
 
+# Ash battle
+Ash battle is a game made in Portugol, inspired on ash battle system of <a href="https://github.com/Ashley-Lab/Ashley">Ashley</a>
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
